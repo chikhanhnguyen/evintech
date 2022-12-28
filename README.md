@@ -10,3 +10,7 @@ Création d'un site qui permettra d'afficher de manière structuré les évènem
 - Interface utilisateur permettant de participer à un évènement, de le liker, de le commenter ainsi qu'un moyen de paiement en ligne (si nécessaire)
 - Recherche par filtre d'évènement
 - Liste des participants pour les organisateurs
+
+# TECHNOLOGIES
+
+Vue.js, Java, Java Script, Bootstrap, Oauth2, Firebase.
