@@ -1,0 +1,12 @@
+node_modules/*
+evintech-vue/package-lock.json
+*.json
+.idea/*
+.vscode/*
+*.class
+evintech-api/target/*
+evintech-api/.classpath
+evintech-api/.settings/org.eclipse.jdt.core.prefs
+.project
+package.json
+package-lock.json
